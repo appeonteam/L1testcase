@@ -1,6 +1,7 @@
 Save Format v3.0(19990112)
 @begin Targets
  0 "appeontestcase_pb.pbt";
+ 1 "fghfgh.pbt";
 @end;
-DefaultTarget "appeontestcase_pb.pbt";
-DefaultRemoteTarget "appeontestcase_pb.pbt";
+DefaultTarget "fghfgh.pbt";
+DefaultRemoteTarget "fghfgh.pbt";
